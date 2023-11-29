@@ -26,4 +26,55 @@ Bituminous pavements are subjected to faster deterioration which will result in 
 - The bitumen used is of VG 30 and latex used of DRC60 so the test results are only comprising to this bitumen grade and latex grade
 - If addition of latex can improve these properties it will be a great boon. The increased demand for latex in the bituminous mix design can encourage farmers in the field of rubber plantations. Evaluation of performance of mix will be conducted for various percentages of latex from 0 to 7% and the optimum mix will be selected. 
 
+## METHODOLOGY
+### MATERIALS
+The materials to be used are bitumen of VG30, aggregate and latex.  The latex to be used in the study is a natural rubber with 60% dry rubber content (DRC).  The different levels of latex to be investigated are 0%, 1%, 2%, 3%, 4%, 5%, 6% and 7%. The aggregates must be well graded to be used in the wearing course.
+### MATERIAL SELECTION AND TESTING
+#### Selection of aggregates
+Aggregates suitable for the mix design are selected by testing the various properties of aggregates. The properties tested include:
+##### Strength
+Strength of the aggregate is measured in terms of the aggregate crushing value. Sample of aggregates passing through 12.5 mm IS sieve and retained on 10 mm IS sieve were selected and filled into the measuring cylinder in three layers giving 25 blows for each layer. The sample was tested for crushing in the compression testing machine at the rate of 4 tonnes per minute for 10 minutes. The crushed sample was then sieved through 2.36 mm IS sieve.
+- (Aggregate crushing value=(Weight of crushed aggregates)/(Total weight of aggregate taken )  ×100)  (3.1)
+##### Toughness
+Aggregate impact value is taken as the measure of toughness of aggregates. Sample of aggregates passing through 12.5 mm IS sieve and retained on 10 mm IS sieve were selected and filled into the measuring cylinder in three layers giving 25 blows. The sample was then tested for toughness in the impact testing apparatus by giving 15 blows of hammer. The sample thereafter was sieved through a 2.36 mm IS sieve.
+- Aggregate impact value=  (Weight of sample passing 2.36mm IS sieve)/(Total weight of sample taken)  ×100  (3.2)
+##### Particle shape
+The particle shape is determined in terms of flakiness and elongation index. The aggregates were sieved through IS sieves of sizes 20 mm, 16 mm, 12.5 mm, 10 mm and 6.3 mm. A certain amount of fraction retained on each of the sieves were taken and passed through the length gauge and thickness gauge. The aggregates passing through the thickness gauge were taken as flaky and those retained on the length gauge were taken as elongated. According to the MORTH specifications shape of aggregates is determined using combined elongation and flakiness index. Flakiness Index test was carried out in the selected sample of aggregates. The flaky particles passing through the respective slots of the thickness gauge were removed and the Elongation Index test was carried out in the remaining non-flaky particles and the Elongation Index so obtained was noted as EI_c.
+- Combined elongation and flakiness index = FI +EI_c  (3.3)
+In addition the angularity of aggregates were also tested. Angularity of aggregates is defined as the absence of roundness which is of importance as it affects the interlocking properties of the compacted aggregate layer and the ease of handling the aggregate binder mixture. The test sample passing through 10mm IS sieve and retained on 6.3mm IS sieve were selected for the test and filled in the cylinder of 3 litre capacity in 3 layers giving 100 blows each. The weight of aggregate in cylinder was noted as W g, the weight of water filling the cylinder was taken as C g and the specific gravity of aggregate was determined as G. 
+- Angularity number =67 -  100W/CG  (3.4)
+##### Specific gravity
+A sample of coarse aggregate was placed in a wire basket and immersed in water for 24 hours. The sample was weighed in water (W_1). The empty weight of basket suspended in water was also noted (W_2). The aggregates were then taken out and surface dried. The weight of the sample was then noted as (W_3). 
+- Specific gravity =  W_3/(W_3-(W_1-W_2))  (3.5)
+Specific gravity of fine aggregates were measured using pycnometer. The empty weight was noted. The weight of pycnometer containing fine aggregates was then noted. Thereafter the weight of pycnometer was taken along with the aggregates and water. Finally the weight of pycnometer with water only was measured. Thus the specific gravity was calculated.
+##### Gradation and size
+The aggregate sample was of a certain weight were taken and sieved successively through IS sieves of sizes 20mm, 16mm, 12.5mm, 10mm, 6.3mm for coarse aggregates and 4.75mm, 2.36mm, 1.18mm, 0.6mm and 0.3mm for fine aggregates. The results of sieve analysis were reported graphically.
+
+#### Selection of bitumen
+Preliminary tests were conducted to determine the properties and performance of the bitumen. These include:
+
+
+##### Penetration test
+The bitumen was softened to a pouring consistency and poured into a container to a depth of at least 15mm in excess of the expected penetration. The sample containers were then placed in a water bath at a temperature of 25°C for one hour. It was then taken out and placed under the penetrometer. The needle was adjusted to make contact with the surface of sample. The dial was set to zero and the needle was released for 5 seconds. The reading from the dial gauge was taken.
+##### Softening point test
+The softening point of bitumen was determined by the Ring and Ball test. A brass ring containing test sample of bitumen were suspended in a beaker with liquid water bath. A steel ball was placed on the bitumen sample and the liquid medium was then heated at the rate of 5°C per minute. The temperature at which the softened bitumen touches the metal plate placed at a specified distance below the ring was recorded as the softening point of bitumen.
+##### Specific gravity test
+The specific gravity of bitumen was determined using a pycnometer. The specific gravity was obtained by dividing the weight of bitumen by weight of equal volume of water.
+##### Ductility test
+The ductility value is expressed as the distance in centimetre to which the bitumen specimen of standard size can be stretched before the thread breaks. The standard briquette specimen of cross section 10 mm × 10 mm was tested at 27°C with a rate of pull of 50 mm per minute. The distance upto the point of breaking of thread was reported as the ductility of bitumen.
+#### Specimen preparation
+Approximately 1200gm of aggregates and filler is heated to a temperature of 175-190ºC. Binder is heated to a temperature of 121-125ºC with the first trial percentage of binder as 5% by weight of the mineral aggregates. The heated aggregates and bitumen are thoroughly mixed at a temperature of 154-160ºC. The mix is placed in a preheated mould and compacted by a rammer with 50 blows on either side at temperature of 138ºC to 149ºC. The weight of mixed aggregates taken for the preparation of the specimen may be suitably altered to obtain a compacted thickness of 63.5±3 mm. Vary the bitumen content in the next trial by +0:5% and repeat the above procedure. The latex-bitumen contents investigated varied from 5.0% to 7.0% of total mixture weight. Three specimens were prepared for each latex-bitumen content. Four levels of latex content were investigated in this study, at 0%, 2%, 4% and 6% latex by weight of bitumen respectively.
+#### Density and Voids Analysis
+All mix design methods use density and voids to determine basic HMA physical characteristics. Two different measures of densities are typically taken:
+- Bulk specific gravity (Gmb).
+- Theoretical maximum specific gravity (TMD, Gmm).
+These densities are then used to calculate the volumetric parameters of the HMA. Measured void expressions are usually:
+- Voids in the total mix (VIM)
+- Voids in the mineral aggregate (VMA)
+- Voids filled with bitumen (VFB)
+
+#### The Marshall Stability and Flow Test
+The Marshall stability and flow test provides the performance prediction measure for the Marshall mix design method. The stability portion of the test measures the maximum load supported by the test specimen at a loading rate of 50.8 mm/minute (2 inches/minute). Basically, the load is increased until it reaches a maximum then when the load just begins to decrease, the loading is stopped and the maximum load is recorded.
+
+During the loading, an attached dial gauge measures the specimen’s plastic flow as a result of the loading. The flow value is recorded in 0.25 mm (0.01 inch) increments at the same time the maximum load is recorded. The apparatus of Marshall stability test is shown in fig.3.1.
 
