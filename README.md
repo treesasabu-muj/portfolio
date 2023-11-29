@@ -2,6 +2,8 @@
 
 #### Technical Skills: SAP Hybris, Java, Python, R, Groovy
 
+### [Linkedln](https://www.linkedin.com/in/treesa-sabu-66a029128/)
+
 Hardworking software developer with robust problem-solving skills and proven experience in creating and designing software. 4 years experience in fast paced SAP Hybris and Java environment. Currently Pursuing MBA inAnalytics and Data Science from MUJ.
 
 ## Work Experience
@@ -62,5 +64,7 @@ Hardworking software developer with robust problem-solving skills and proven exp
 - ICPM Certified Supervisor Specialization([Coursera](
 https://www.coursera.org/account/accomplishments/specialization/certificate/6CXJV9GPL2RN))
 - Explore the Technical Essentials of SAP Commerce Cloud ([SAP](https://www.credly.com/badges/f0ebdd8d-6c65-4632-be71-bee930ab2afd/public_url))
-- Other Certifications ([click here](https://www.linkedin.com/in/treesa-sabu-66a029128/details/certifications/))
+- Other Certificates ([click here](https://www.linkedin.com/in/treesa-sabu-66a029128/details/certifications/))
+
+## Projects
 
