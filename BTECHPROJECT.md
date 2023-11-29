@@ -5,3 +5,25 @@ Bituminous concrete wearing course is that part of the pavement upon which traff
 Pavement is a durable surfacing of a road whose primary function is to transmit loads to the sub-base and underlying soil. Pavements are of two types: flexible and rigid. Flexible pavements consists of a mixture of bituminous material and aggregates placed on a bed of compacted granular material of appropriate quality in layers over the subgrade. Bituminous concrete wearing course is that part of the pavement upon which the traffic travels. One of the major disadvantage of flexible pavement over rigid pavement is early deterioration of surface. The pavement deterioration occurs due to high surface temperature, heavy rainfall, moisture ingress, poor subgrade, poor construction quality and heavy traffic. To improve the physical properties of bituminous concrete wearing course the materials used for the construction should be properly selected. Several ways to improve the physical properties of pavement includes use of additives such as nano materials, latex, marble dust, styrene-butadiene-styrene polymers etc.
 Natural rubber (NR) latex is a cheaper and more accessible natural polymer which can improve the physical properties especially the rheological properties of bitumen. Conventional bitumen PEN 60/70 can be modified with different content of NR latex at temperature of 150°C. The NR latex addition is expected to reduce the temperature sensitivity of the modified binder. Also, the optimum NR latex content that can be added of the total mass of the modified binder is to be found out. Hence, as a renewable and sustainable material, natural rubber (NR) latex has the potential to be used as an effective bitumen modifier.
 
+## INTRODUCTION
+### GENERAL BACKGROUND
+Pavement, in civil engineering is a durable surfacing of a road, airstrip, or similar area whose primary function is to transmit loads to the sub-base and underlying soil. Pavements may be either flexible, rigid or semi-rigid, according to their relative flexural stiffness. Rigid pavements are made of Portland cement concrete. Semi-rigid pavements are those having some type of chemically stabilized (pozzolanic) layer below the bituminous concrete layer. A flexible pavement structure is typically composed of several layers of materials each receiving loads from the layers above and spreading it to the next layer below. Bituminous wearing course is that part of the pavement upon which the traffic runs including any dense graded bituminous course immediately below a course of open graded bitumen. 
+One of the major disadvantage of flexible pavement over rigid pavement is early deterioration of surface which can be overcome by improving the physical properties of wearing course. Several ways to improve the physical properties of pavement includes use of additives such as nano materials, latex, marble dust, styrene-butadiene-styrene polymers etc. Conventional bituminous concrete formula using the Marshall method has been shown to fail very rapidly due to heavy traffic and environmental effects. To minimize this deterioration, it is necessary to pay extra attention to material selection and one solution is to formulate an bituminous mix that has a high physical properties and one way to do this is to use latex as an additive. 
+
+### OBJECTIVE
+Bituminous Wearing course can be prepared using bituminous mix design. One of the predominant bituminous mix design is Marshall method of mix design. Wearing course is subjected to deterioration due to high surface temperature, heavy rainfall, moisture ingress, poor subgrade, poor construction quality and heavy traffic. Addition of latex into the mix is expected to increase the physical properties of the bituminous mix so that the paved surface will be capable of resisting the deteriorations. The main objectives of the study includes:
+- Finding the optimum latex content and binder content in the mix
+- Evaluating the changes in unit weight and voids
+- Determination of  Marshall stability,
+- Marshall flow value,
+- Skid resistance and 
+- Fatigue resistance
+
+### SCOPE
+Bituminous pavements are subjected to faster deterioration which will result in higher maintenance and operation cost. 
+- Improving the physical properties of wearing course can increase the strength of the pavement and resistance to deformations, rutting, fatigue as well as skid. On the whole this can improve the overall durability of the pavement. 
+- Improvement in pavement characteristics like friction and skid resistance can reduce the vehicle operation cost.
+- The bitumen used is of VG 30 and latex used of DRC60 so the test results are only comprising to this bitumen grade and latex grade
+- If addition of latex can improve these properties it will be a great boon. The increased demand for latex in the bituminous mix design can encourage farmers in the field of rubber plantations. Evaluation of performance of mix will be conducted for various percentages of latex from 0 to 7% and the optimum mix will be selected. 
+
+
