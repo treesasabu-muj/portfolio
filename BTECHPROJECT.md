@@ -77,4 +77,6 @@ These densities are then used to calculate the volumetric parameters of the HMA.
 The Marshall stability and flow test provides the performance prediction measure for the Marshall mix design method. The stability portion of the test measures the maximum load supported by the test specimen at a loading rate of 50.8 mm/minute (2 inches/minute). Basically, the load is increased until it reaches a maximum then when the load just begins to decrease, the loading is stopped and the maximum load is recorded.
 
 During the loading, an attached dial gauge measures the specimen’s plastic flow as a result of the loading. The flow value is recorded in 0.25 mm (0.01 inch) increments at the same time the maximum load is recorded. The apparatus of Marshall stability test is shown in fig.3.1.
+![fig.3.1](/assets/img/image.png)
+
 
