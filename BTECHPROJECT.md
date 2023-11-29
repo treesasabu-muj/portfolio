@@ -32,21 +32,26 @@ The materials to be used are bitumen of VG30, aggregate and latex.  The latex to
 ### MATERIAL SELECTION AND TESTING
 #### Selection of aggregates
 Aggregates suitable for the mix design are selected by testing the various properties of aggregates. The properties tested include:
+
 ##### Strength
 Strength of the aggregate is measured in terms of the aggregate crushing value. Sample of aggregates passing through 12.5 mm IS sieve and retained on 10 mm IS sieve were selected and filled into the measuring cylinder in three layers giving 25 blows for each layer. The sample was tested for crushing in the compression testing machine at the rate of 4 tonnes per minute for 10 minutes. The crushed sample was then sieved through 2.36 mm IS sieve.
 - (Aggregate crushing value=(Weight of crushed aggregates)/(Total weight of aggregate taken )  ×100)  (3.1)
+
 ##### Toughness
 Aggregate impact value is taken as the measure of toughness of aggregates. Sample of aggregates passing through 12.5 mm IS sieve and retained on 10 mm IS sieve were selected and filled into the measuring cylinder in three layers giving 25 blows. The sample was then tested for toughness in the impact testing apparatus by giving 15 blows of hammer. The sample thereafter was sieved through a 2.36 mm IS sieve.
 - Aggregate impact value=  (Weight of sample passing 2.36mm IS sieve)/(Total weight of sample taken)  ×100  (3.2)
+
 ##### Particle shape
 The particle shape is determined in terms of flakiness and elongation index. The aggregates were sieved through IS sieves of sizes 20 mm, 16 mm, 12.5 mm, 10 mm and 6.3 mm. A certain amount of fraction retained on each of the sieves were taken and passed through the length gauge and thickness gauge. The aggregates passing through the thickness gauge were taken as flaky and those retained on the length gauge were taken as elongated. According to the MORTH specifications shape of aggregates is determined using combined elongation and flakiness index. Flakiness Index test was carried out in the selected sample of aggregates. The flaky particles passing through the respective slots of the thickness gauge were removed and the Elongation Index test was carried out in the remaining non-flaky particles and the Elongation Index so obtained was noted as EI_c.
 - Combined elongation and flakiness index = FI +EI_c  (3.3)
 In addition the angularity of aggregates were also tested. Angularity of aggregates is defined as the absence of roundness which is of importance as it affects the interlocking properties of the compacted aggregate layer and the ease of handling the aggregate binder mixture. The test sample passing through 10mm IS sieve and retained on 6.3mm IS sieve were selected for the test and filled in the cylinder of 3 litre capacity in 3 layers giving 100 blows each. The weight of aggregate in cylinder was noted as W g, the weight of water filling the cylinder was taken as C g and the specific gravity of aggregate was determined as G. 
 - Angularity number =67 -  100W/CG  (3.4)
+
 ##### Specific gravity
 A sample of coarse aggregate was placed in a wire basket and immersed in water for 24 hours. The sample was weighed in water (W_1). The empty weight of basket suspended in water was also noted (W_2). The aggregates were then taken out and surface dried. The weight of the sample was then noted as (W_3). 
 - Specific gravity =  W_3/(W_3-(W_1-W_2))  (3.5)
 Specific gravity of fine aggregates were measured using pycnometer. The empty weight was noted. The weight of pycnometer containing fine aggregates was then noted. Thereafter the weight of pycnometer was taken along with the aggregates and water. Finally the weight of pycnometer with water only was measured. Thus the specific gravity was calculated.
+
 ##### Gradation and size
 The aggregate sample was of a certain weight were taken and sieved successively through IS sieves of sizes 20mm, 16mm, 12.5mm, 10mm, 6.3mm for coarse aggregates and 4.75mm, 2.36mm, 1.18mm, 0.6mm and 0.3mm for fine aggregates. The results of sieve analysis were reported graphically.
 
@@ -68,6 +73,7 @@ Approximately 1200gm of aggregates and filler is heated to a temperature of 175-
 All mix design methods use density and voids to determine basic HMA physical characteristics. Two different measures of densities are typically taken:
 - Bulk specific gravity (Gmb).
 - Theoretical maximum specific gravity (TMD, Gmm).
+
 These densities are then used to calculate the volumetric parameters of the HMA. Measured void expressions are usually:
 - Voids in the total mix (VIM)
 - Voids in the mineral aggregate (VMA)
