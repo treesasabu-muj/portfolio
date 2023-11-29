@@ -85,4 +85,17 @@ The Marshall stability and flow test provides the performance prediction measure
 During the loading, an attached dial gauge measures the specimen’s plastic flow as a result of the loading. The flow value is recorded in 0.25 mm (0.01 inch) increments at the same time the maximum load is recorded. The apparatus of Marshall stability test is shown in fig.3.1.
 ![fig.3.1](/assets/img/image.png)
 
+#### Selection of Optimum Bitumen Binder Content
+The optimum bitumen binder content is finally selected based on the combined results of Marshall stability and flow, density analysis and void analysis.  Optimum bitumen binder content can be arrived at in the following procedure:
+- **Plot the following graphs:**
+
+- 	Bitumen binder content vs. density: Density will generally increase with increasing bitumen content, reach a maximum, then decrease.  Peak density usually occurs at a higher bitumen binder content than peak stability.
+- Bitumen binder content vs. Marshall stability:  This should follow one of two trends: Stability increases with increasing bitumen binder content, reaches a peak, then decreases. or Stability decreases with increasing bitumen binder content and does not show a peak.  This curve is common for some recycled HMA mixtures.
+- Bitumen binder content vs. flow.
+- Bitumen binder content vs. air voids.  Percent air voids should decrease with increasing bitumen binder content.
+- Bitumen binder content vs. VMA.  Percent VMA should decrease with increasing bitumen binder content, reach a minimum, then increase.
+- Bitumen binder content vs. VFB.  Percent VFB increases with increasing bitumen binder content.
+
+- **Determine the bitumen binder content that corresponds to the specifications median air void content (typically this is 3-5 percent).  This is the optimum bitumen binder content.**
+- **Determine properties at this optimum bitumen binder content by referring to the plots.  Compare each of these values against specification values and if all are within specification, then the preceding optimum bitumen binder content is satisfactory.**
 
