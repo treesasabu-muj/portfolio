@@ -108,6 +108,7 @@ A sample of aggregates was taken and the following observations were recorded.
 #### Aggregate Crushing Value
 The aggregate crushing value should not be more than 30 % for aggregates used in bituminous surface dressing. The recorded observations of the crushing strength test are shown in Table 4.1.
 Table 4.1 Test results of aggregate crushing strength test
-![table 4.1](assets/img/table4.1.png)
+![table 4.1](/assets/img/table4.1.png)
+The obtained value of 26.925 % was found to be less than this limit. Hence the aggregates are satisfactory.
 
 
