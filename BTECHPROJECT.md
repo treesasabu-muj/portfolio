@@ -171,6 +171,7 @@ Table 4.10 Test results of specific gravity of bitumen
 #### Ductility Test on Bitumen
 The ductility value obtained for the bitumen is 65 cm as shown in table 4.11. Hence the bitumen can be used at higher traffic loads and it does not get cracked easily.
 Table 4.11 Test results of ductility test on bitumen
+![table 4.11](/assets/img/table4.11.png)
 
 ## CONCLUSIONS
 On conclusion of the preliminary tests on aggregate and bitumen, the following conclusions are made.
@@ -192,10 +193,10 @@ Each of the preliminary tests conducted to determine the properties of aggregate
 6.	S.K.A.Bakar, et al., (2018). “Evaluating the rheological properties of waste natural rubber latex modified binder”. E3S Web of Conferences 34,01037 (2018).
 7.	M.R.Ghorpade, D.B.Desai, (2018). “A study of enhancement of bituminous mix by use of modifiers”. Imperial Journal of Interdisiplinary Researches (IJIR), Vol. 4, No.1.
 8.	M.G.Krishnapriya, (2015). “Performance evaluation of natural rubber modified bituminous mixes.”  Journal  of  Civil, Environmental,  Water  resources  and  Infrastructure  Engineering Research (JCSEWIER), Vol.5, No.1
-9.	https://www.britannica.com/technology/road/The-modern-road
-10.	https://www.britannica.com/technology/pavement-civil-engineering
-11.	https://www.pavementinteractive.org/reference-desk/design/mix-design/marshall-mix-design
-12.	https://nptel.ac.in/courses/105101087/downloads/Lec-26.pdf
+9.	[https://www.britannica.com/technology/road/The-modern-road](https://www.britannica.com/technology/road/The-modern-road)
+10.	[https://www.britannica.com/technology/pavement-civil-engineering](https://www.britannica.com/technology/pavement-civil-engineering)
+11.	[https://www.pavementinteractive.org/reference-desk/design/mix-design/marshall-mix-design](https://www.pavementinteractive.org/reference-desk/design/mix-design/marshall-mix-design)
+12.	[https://nptel.ac.in/courses/105101087/downloads/Lec-26.pdf](https://nptel.ac.in/courses/105101087/downloads/Lec-26.pdf)
 
 
 
