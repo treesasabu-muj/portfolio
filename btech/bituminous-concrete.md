@@ -83,7 +83,7 @@ These densities are then used to calculate the volumetric parameters of the HMA.
 The Marshall stability and flow test provides the performance prediction measure for the Marshall mix design method. The stability portion of the test measures the maximum load supported by the test specimen at a loading rate of 50.8 mm/minute (2 inches/minute). Basically, the load is increased until it reaches a maximum then when the load just begins to decrease, the loading is stopped and the maximum load is recorded.
 
 During the loading, an attached dial gauge measures the specimen’s plastic flow as a result of the loading. The flow value is recorded in 0.25 mm (0.01 inch) increments at the same time the maximum load is recorded. The apparatus of Marshall stability test is shown in fig.3.1.
-![fig.3.1](/assets/img/image.png)
+![fig.3.1](/assets/image.png)
 
 #### Selection of Optimum Bitumen Binder Content
 The optimum bitumen binder content is finally selected based on the combined results of Marshall stability and flow, density analysis and void analysis.  Optimum bitumen binder content can be arrived at in the following procedure:
@@ -108,52 +108,52 @@ A sample of aggregates was taken and the following observations were recorded.
 #### Aggregate Crushing Value
 The aggregate crushing value should not be more than 30 % for aggregates used in bituminous surface dressing. The recorded observations of the crushing strength test are shown in Table 4.1.
 Table 4.1 Test results of aggregate crushing strength test
-![table 4.1](/assets/img/table4.1.png)
+![table 4.1](/assets/table4.1.png)
 The obtained value of 26.925 % was found to be less than this limit. Hence the aggregates are satisfactory.
 
 #### Aggregate Impact Value
 The aggregate impact value should not be more than 30 % to be used in wearing course as per the MORTH specifications. The results of aggregate impact test are as shown in Table 4.2
 Table 4.2 Test results of aggregate impact test
-![table 4.2](/assets/img/table4.2.png)
+![table 4.2](/assets/table4.2.png)
 The tested sample therefore falls within the desired limit. Moreover, it is satisfactory for road surfacing.
 
 #### Flakiness Index	
 As per the IRC recommendations, the maximum limit of flakiness index of aggregates to be used in surface course is 25%. The results of the test are as shown in Table 4.3.
 Table 4.3 Test results of flakiness index test
-![table 4.3](/assets/img/table4.3.png)
+![table 4.3](/assets/table4.3.png)
 The obtained flakiness index lies within the permissible limits. Hence the aggregates are suitable for surface dressing.
 
 #### Elongation Index
 The permissible limit of elongation index of aggregate is 25%. The recorded observations of elongation test is shown in Table 4.4. The elongation index obtained is 23.722 % which is within the desired limits.
 Table 4.4 Test results of elongation index test
-![table 4.4](/assets/img/table4.4.png)
+![table 4.4](/assets/table4.4.png)
 
 #### Combined Flakiness and Elongation Index
 As per the MORTH specifications, combined flakiness and elongation index must be less than 30%. The obtained results of the test are as shown in Table 4.5, which shows the combined flakiness and elongation index as 29.139% and it is less than the permissible limits.
 Table 4.5 Test results of combined elongation and flakiness index test
-![table 4.5](/assets/img/table4.5.png)
+![table 4.5](/assets/table4.5.png)
 
 #### Specific Gravity of Coarse Aggregates
 Table 4.6 shows the observations of the test for specific gravity on coarse aggregates. The specific gravity of aggregates used in road construction usually ranges from 2.5 to 3 with an average of 2.68. The obtained value of 2.625 lies within the desirable limits.
 Table 4.6 Test results of specific gravity of coarse aggregates
-![table 4.6](/assets/img/table4.6.png)
+![table 4.6](/assets/table4.6.png)
 
 #### Specific Gravity of Fine Aggregates
 Specific gravity of fine aggregates were determined using pycnometer method. The obtained specific gravity lies within the range of 2.5 to 3. The observations are shown in table 4.7.
 Table 4.7 Test results of specific gravity of fine aggregate
-![table 4.7](/assets/img/table4.7.png)
+![table 4.7](/assets/table4.7.png)
 
 #### Angularity of Aggregates
 The angularity number of aggregates generally ranges from 0 for highly rounded particles to about 11 for freshly crushed angular aggregates. The test
 results shown in Table 4.8 gives an angularity number of 8, which suggests that the aggregates are nearly angular.
 Table 4.8 Test results of angularity of aggregates
-![table 4.8](/assets/img/table4.8.png)
+![table 4.8](/assets/table4.8.png)
 
 #### Gradation and Size of Aggregates
 Table 4.9 shows the test results obtained in the sieve analysis of aggregates. The gradation curve was then plotted as shown in Fig 4.1 which was found to be an S shaped curve. This indicates that the aggregates are well graded.
 Table 4.9 Test results of sieve analysis of aggregates
-![table 4.9](/assets/img/table4.9.png)
-![Fig 4.1](/assets/img/fig4.1.png)
+![table 4.9](/assets/table4.9.png)
+![Fig 4.1](/assets/fig4.1.png)
 
 ### RESULTS OF BITUMEN TESTING
 A sample of bitumen was taken and the following observations were recorded after different tests. 
@@ -166,12 +166,12 @@ The obtained softening point temperature of bitumen was found to be 64.1°C. Hen
 #### Specific Gravity of Bitumen
 Specific gravity of pure bitumen is expected to be in the range of 0.97 to 1.1. The specific gravity obtained as shown in Table 4.10 is 1.06, which is within this limit.
 Table 4.10 Test results of specific gravity of bitumen
-![table 4.10](/assets/img/table4.10.png)
+![table 4.10](/assets/table4.10.png)
 
 #### Ductility Test on Bitumen
 The ductility value obtained for the bitumen is 65 cm as shown in table 4.11. Hence the bitumen can be used at higher traffic loads and it does not get cracked easily.
 Table 4.11 Test results of ductility test on bitumen
-![table 4.11](/assets/img/table4.11.png)
+![table 4.11](/assets/table4.11.png)
 
 ## CONCLUSIONS
 On conclusion of the preliminary tests on aggregate and bitumen, the following conclusions are made.
