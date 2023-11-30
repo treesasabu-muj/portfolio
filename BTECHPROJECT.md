@@ -121,4 +121,83 @@ The tested sample therefore falls within the desired limit. Moreover, it is sati
 As per the IRC recommendations, the maximum limit of flakiness index of aggregates to be used in surface course is 25%. The results of the test are as shown in Table 4.3.
 Table 4.3 Test results of flakiness index test
 ![table 4.3](/assets/img/table4.3.png)
+The obtained flakiness index lies within the permissible limits. Hence the aggregates are suitable for surface dressing.
+
+#### Elongation Index
+The permissible limit of elongation index of aggregate is 25%. The recorded observations of elongation test is shown in Table 4.4. The elongation index obtained is 23.722 % which is within the desired limits.
+Table 4.4 Test results of elongation index test
+![table 4.4](/assets/img/table4.4.png)
+
+#### Combined Flakiness and Elongation Index
+As per the MORTH specifications, combined flakiness and elongation index must be less than 30%. The obtained results of the test are as shown in Table 4.5, which shows the combined flakiness and elongation index as 29.139% and it is less than the permissible limits.
+Table 4.5 Test results of combined elongation and flakiness index test
+![table 4.5](/assets/img/table4.5.png)
+
+#### Specific Gravity of Coarse Aggregates
+Table 4.6 shows the observations of the test for specific gravity on coarse aggregates. The specific gravity of aggregates used in road construction usually ranges from 2.5 to 3 with an average of 2.68. The obtained value of 2.625 lies within the desirable limits.
+Table 4.6 Test results of specific gravity of coarse aggregates
+![table 4.6](/assets/img/table4.6.png)
+
+#### Specific Gravity of Fine Aggregates
+Specific gravity of fine aggregates were determined using pycnometer method. The obtained specific gravity lies within the range of 2.5 to 3. The observations are shown in table 4.7.
+Table 4.7 Test results of specific gravity of fine aggregate
+![table 4.7](/assets/img/table4.7.png)
+
+#### Angularity of Aggregates
+The angularity number of aggregates generally ranges from 0 for highly rounded particles to about 11 for freshly crushed angular aggregates. The test
+results shown in Table 4.8 gives an angularity number of 8, which suggests that the aggregates are nearly angular.
+Table 4.8 Test results of angularity of aggregates
+![table 4.8](/assets/img/table4.8.png)
+
+#### Gradation and Size of Aggregates
+Table 4.9 shows the test results obtained in the sieve analysis of aggregates. The gradation curve was then plotted as shown in Fig 4.1 which was found to be an S shaped curve. This indicates that the aggregates are well graded.
+Table 4.9 Test results of sieve analysis of aggregates
+![table 4.9](/assets/img/table4.9.png)
+![Fig 4.1](/assets/img/fig4.1.png)
+
+### RESULTS OF BITUMEN TESTING
+A sample of bitumen was taken and the following observations were recorded after different tests. 
+#### Penetration Test on Bitumen
+The penetration value of bitumen was determined using a penetrometer and was found to be 65. Hence it belongs to the penetration grade 60/70.
+
+#### Softening Point Test on Bitumen
+The obtained softening point temperature of bitumen was found to be 64.1°C. Hence the bitumen can be used at higher temperatures.
+
+#### Specific Gravity of Bitumen
+Specific gravity of pure bitumen is expected to be in the range of 0.97 to 1.1. The specific gravity obtained as shown in Table 4.10 is 1.06, which is within this limit.
+Table 4.10 Test results of specific gravity of bitumen
+![table 4.10](/assets/img/table4.10.png)
+
+#### Ductility Test on Bitumen
+The ductility value obtained for the bitumen is 65 cm as shown in table 4.11. Hence the bitumen can be used at higher traffic loads and it does not get cracked easily.
+Table 4.11 Test results of ductility test on bitumen
+
+## CONCLUSIONS
+On conclusion of the preliminary tests on aggregate and bitumen, the following conclusions are made.
+-	The aggregate crushing strength as well as impact value was found to be less than 30% making it suitable for the use of wearing course.
+-	The flakiness, elongation and combined elongation and flakiness indices were found to be less than 30% which indicates better interlocking between the aggregates when used in a mix.
+-	The specific gravity of both fine and coarse aggregates were obtained to be 2.625 suggesting that the aggregates are good for use in road construction.
+-	An angularity number of 8 obtained in the tests indicate that aggregates are nearly angular and hence this increases the workability of the mix.
+-	The gradation curve follows a S shaped graph and the aggregates are well graded. Hence there will be less void spaces between the aggregates and better interlocking properties.
+-	A penetration value of 65 indicates that it belongs to 60/70 penetration grade enabling it to be used sufficiently warmer climates.
+-	A higher softening point temperature and ductility value obtained suggests that the bitumen is suitable to be used at warmer climates and it will not get cracked easily under heavy traffic loads.
+Each of the preliminary tests conducted to determine the properties of aggregates and bitumen suggests their suitability to be used in the wearing course of pavement.
+
+## REFERENCES
+1.	H.Siswanto, (2016), “Improving the physical properties of asphalt concrete bearing course using latex DRC60”, Journal of  American Institute of Physics, Vol.1778, pp.126-132.
+2.	H.Siswanto,(2017), “ Improving water resistance of asphalt concrete wearing course using latex-bitumen binder” MATEC Web of Conferences, Vol.97, pp.320-326.
+3.	H.Siswanto, (2017), “The effect of latex on permanent deformation of asphalt concrete wearing course”, Journal of Procedia Engineering, Vol. 171, pp.1390-1394.
+4.	S.K. Khanna, C.E.G. Justo and A. Veeraragavan. Highway Engineering, Khanna publishers
+5.	Y.Wen, K.Zhao, Y.Wang, and A.Sumalee, (2015). “The use of natural rubber latex as a renewable and sustainable modifier of asphalt binder”. International Journal of Pavement Engineering.Vol.18, No.6.
+6.	S.K.A.Bakar, et al., (2018). “Evaluating the rheological properties of waste natural rubber latex modified binder”. E3S Web of Conferences 34,01037 (2018).
+7.	M.R.Ghorpade, D.B.Desai, (2018). “A study of enhancement of bituminous mix by use of modifiers”. Imperial Journal of Interdisiplinary Researches (IJIR), Vol. 4, No.1.
+8.	M.G.Krishnapriya, (2015). “Performance evaluation of natural rubber modified bituminous mixes.”  Journal  of  Civil, Environmental,  Water  resources  and  Infrastructure  Engineering Research (JCSEWIER), Vol.5, No.1
+9.	https://www.britannica.com/technology/road/The-modern-road
+10.	https://www.britannica.com/technology/pavement-civil-engineering
+11.	https://www.pavementinteractive.org/reference-desk/design/mix-design/marshall-mix-design
+12.	https://nptel.ac.in/courses/105101087/downloads/Lec-26.pdf
+
+
+
+
 
