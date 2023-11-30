@@ -27,9 +27,11 @@ Hardworking software developer with robust problem-solving skills and proven exp
 ## Education ([See more details](/profile/education.md))
 **Manipal University Jaipur**
 - Master of Business Administration - Analytics and Data Science
+- Sept 2022 - Aug 2024
   
 **Saintgits College of Engineering**
 - Bachelor of Technology(Hons) - Civil Engineering
+- Aug 2015 - Jul 2019
 
 ## Skills
 - Problem Solving
