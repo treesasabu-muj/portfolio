@@ -4,7 +4,7 @@
 
 ### [Linkedln Profile](https://www.linkedin.com/in/treesa-sabu-66a029128/)
 
-Hardworking software developer with robust problem-solving skills and proven experience in creating and designing software. 4 years experience in fast paced SAP Hybris and Java environment. Currently Pursuing MBA inAnalytics and Data Science from MUJ.
+Hardworking software developer with robust problem-solving skills and proven experience in creating and designing software. 4 years experience in fast paced SAP Hybris and Java environment. Currently Pursuing MBA in Analytics and Data Science from MUJ.
 
 ## Work Experience ([See more details](/profile/experience.md))
 **Application Development Analyst @ Accenture**
