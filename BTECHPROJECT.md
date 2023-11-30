@@ -99,3 +99,15 @@ The optimum bitumen binder content is finally selected based on the combined res
 - **Determine the bitumen binder content that corresponds to the specifications median air void content (typically this is 3-5 percent).  This is the optimum bitumen binder content.**
 - **Determine properties at this optimum bitumen binder content by referring to the plots.  Compare each of these values against specification values and if all are within specification, then the preceding optimum bitumen binder content is satisfactory.**
 
+## RESULTS AND DISCUSSIONS
+### GENERAL
+The results of the preliminary tests conducted on aggregate and bitumen are as follows.
+
+### RESULTS OF AGGREGATE TESTING
+A sample of aggregates was taken and the following observations were recorded.
+#### Aggregate Crushing Value
+The aggregate crushing value should not be more than 30 % for aggregates used in bituminous surface dressing. The recorded observations of the crushing strength test are shown in Table 4.1.
+Table 4.1 Test results of aggregate crushing strength test
+![table 4.1](assets/img/table4.1)
+
+
