@@ -2,11 +2,11 @@
 
 #### Technical Skills: SAP Hybris, Java, Python, R, Groovy
 
-### [Linkedln](https://www.linkedin.com/in/treesa-sabu-66a029128/)
+### [Linkedln Profile](https://www.linkedin.com/in/treesa-sabu-66a029128/)
 
 Hardworking software developer with robust problem-solving skills and proven experience in creating and designing software. 4 years experience in fast paced SAP Hybris and Java environment. Currently Pursuing MBA inAnalytics and Data Science from MUJ.
 
-## Work Experience
+## Work Experience ([See more details](/profile/experience.md))
 **Application Development Analyst @ Accenture**
 - Jul 2022 to present
 - Developing software for leading US based diamond retailer group.
