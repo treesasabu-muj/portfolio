@@ -111,4 +111,14 @@ Table 4.1 Test results of aggregate crushing strength test
 ![table 4.1](/assets/img/table4.1.png)
 The obtained value of 26.925 % was found to be less than this limit. Hence the aggregates are satisfactory.
 
+#### Aggregate Impact Value
+The aggregate impact value should not be more than 30 % to be used in wearing course as per the MORTH specifications. The results of aggregate impact test are as shown in Table 4.2
+Table 4.2 Test results of aggregate impact test
+![table 4.2](/assets/img/table4.2.png)
+The tested sample therefore falls within the desired limit. Moreover, it is satisfactory for road surfacing.
+
+#### Flakiness Index	
+As per the IRC recommendations, the maximum limit of flakiness index of aggregates to be used in surface course is 25%. The results of the test are as shown in Table 4.3.
+Table 4.3 Test results of flakiness index test
+![table 4.3](/assets/img/table4.3.png)
 
