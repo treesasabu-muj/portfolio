@@ -24,28 +24,12 @@ Hardworking software developer with robust problem-solving skills and proven exp
 - Acquired new skills and worked as a team player
 - Insta award in recognition of contribution to the client work
 
-## Education([For more details click here](/profile/education.md))
+## Education ([For more details click here](/profile/education.md))
 **Manipal University Jaipur**
-- Master of Business Administration
-- Sept 2022 - present
-- Specialization in analytics and data science
+- Master of Business Administration - Analytics and Data Science
   
 **Saintgits College of Engineering**
-- Bachelor of Technology(Hons)
-- Civil Engineering
-- Aug 2015 - Jul 2019
-- CGPA - 8.31
-
-**Lourdes Matha HSS Pacha**
-- 12th
-- Jun 2013 - Apr 2015
-- PCMB(Physics, Chemistry, Maths, Biology)
-- 94.6%
-
-**St Mary's Girls HS Edathua**
-- 10th
-- Mar 2013
-- 95%
+- Bachelor of Technology(Hons) - Civil Engineering
 
 ## Skills
 - Problem Solving
