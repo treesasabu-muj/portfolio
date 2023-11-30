@@ -24,7 +24,7 @@ Hardworking software developer with robust problem-solving skills and proven exp
 - Acquired new skills and worked as a team player
 - Insta award in recognition of contribution to the client work
 
-## Education
+## Education([For more details click here](/profile/education.md))
 **Manipal University Jaipur**
 - Master of Business Administration
 - Sept 2022 - present
