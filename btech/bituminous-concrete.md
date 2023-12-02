@@ -198,6 +198,38 @@ The ductility value obtained for the bitumen is 65 cm as shown in table 4.11. He
 Table 4.11 Test results of ductility test on bitumen
 ![table 4.11](/assets/table4.11.png)
 
+### Tests on Latex-Bitumen Blend
+The tests conducted on the latex-bitumen blend obtained the following results shown in TABLE
+
+![Latex bitumen](/assets/latexbitumen.png)
+
+It can be inferred from the table that for the blend with 8% latex by weight of bitumen, all the properties were improved compared to the base bitumen. Further a trial blend of 9% latex by weight of bitumen was also prepared for testing. However, this blend prepared resulted in a thick blend with reduced workability. Increasing the percentage of latex in bitumen gradually reduced the workability. Hence, the blend with 9% of latex content was discarded and further tests were not conducted on the same. Thus 8% of latex by weight of bitumen was selected to be the optimum latex content in the modified blend.
+
+### Results of Mix Proportioning
+Bituminous concrete mix design was carried out for both the base bitumen and the bitumen modified with an optimum latex content of 8%. The aggregates were proportioned and batched as shown in TABLE V and VI.
+
+![mix proportion](/assets/mixpropotion.png)
+![batch](/assets/batch.png)
+
+The proportioning was in agreement with the MORTH specification. Hence, it was fixed that for the preparation of Marshall mix specimens, out of a total of 1200g aggregates, about 62% will be Sample A, 12% will be Sample B and 26% will be Sample C. 
+
+The weight of materials to be selected for the bituminous mixes were as shown in TABLE VII and VIII. Three samples were prepared for various binder contents from 5% to 7% and were then tested in the Marshall apparatus for stability and flow value. Further, density and void calculations were done. The results thus obtained for the mixes with base bitumen and modified bitumen were then compared to determine the optimum binder content for the modified mix.
+
+![mix pro](/assets/mixpro.png)
+
+### Results of Tests on Bituminous Concrete Mixes
+The maximum load which each of the specimen of different binder content at 0% and 8% latex-bitumen blend could withstand were determined along with the deformation occurred at that time. The theoretical specific gravity (Gt) and bulk specific gravity (Gm) for the specimens were calculated. These values were then used to calculate the volumetric parameters of specimens like percentage of air voids (Vv) and percentage volume of bitumen (Vb). The results obtained are as shown in TABLE IX and X below.
+
+![concrete](/assets/concrete.png)
+
+These test results were analysed graphically for Marshall stability, flow value bulk specific gravity and percentage air voids in order to compare the variation in properties of latex modified mix with that of pure bituminous mix. For this, graphs were plotted with Marshall stability, flow value, bulk specific gravity and percentage air voids against binder content as shown in fig. 3.to 7.
+
+![graph1](/assets/graph1.png)
+![graph2](/assets/graph2.png)
+![graph3](/assets/graph3.png)
+
+It was observed that the peak values of Marshall stability, bulk specific gravity and the minimum value of Marshall flow was around 6 to 6.5% of binder content for specimen with pure bitumen and was around 5 to 6% of binder content for specimens with 8% latex content. On an average, the optimum binder content for pure bitumen specimens was fixed as 6.14% and that of 8% latex-bitumen blend was 5.55%. For the purpose of study, specimens with 7% latex-bitumen blend were also prepared for different binder contents and all the above parameters were studied. But the results obtained were poor compared to the specimens of 8% latex-bitumen blend. Hence, a binder content of 5.55% with 8% latex in bitumen was found to the best mix.
+
 ## CONCLUSIONS
 In this study, the performance of latex DRC60 modified bituminous concrete wearing course was studied. The properties of base materials were first studied and then the optimum content of latex DRC60 to be added to modify the bitumen was estimated, which was found to be 8% by weight of bitumen. The bituminous concrete mix proportioning was done and the Marshall specimens were prepared with 0% and 8% latex-bitumen blends for a binder content of 5, 5.5, 6, 6.5 and 7%. On testing the specimens it was found that the addition of latex DRC60 could improve the strength of the mix as well as reduce the deformations. Each of the preliminary tests conducted to determine the properties of aggregates and bitumen suggests their suitability to be used in the wearing course of pavement. The tests conducted on bitumen modified with 0, 2, 4, 6 and 8% latex revealed that
 - The penetration of bitumen decreases, while the softening point, ductility and specific gravity increases with increase in latex content.
