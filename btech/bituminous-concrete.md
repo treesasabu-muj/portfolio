@@ -113,7 +113,16 @@ Determine properties at this optimum bitumen binder content by referring to the 
  The latex-bitumen blends were prepared by heating the bitumen to a pouring consistency in a pan at 135 to 140°C. Later, accurately measured quantity of DRC-60 latex was added at different percentages; 0%, 2%, 4%, 6%, 8% and 9%. The blends were then tested for penetration, softening point, specific gravity and ductility. The percentage of latex by weight of bitumen in the latex-bitumen blend which yield better results in these tests were fixed to be the optimum value. Further the results obtained were compared to the test results for pure bitumen.
  
 #### Marshall Mix Proportioning and Design
- Three categories of aggregate samples A, B and C were proportioned to prepare Marshall specimens. These samples were sieved and batched as per MORTH specification for BC grading II shown in TABLE I using trial and error method
+ Three categories of aggregate samples A, B and C were proportioned to prepare Marshall specimens. These samples were sieved and batched as per MORTH specification for BC grading II shown in TABLE using trial and error method
+
+ ![Marshall mix](/assets/latexbitumen.png)
+
+ The proportion of aggregates were fixed using the following equations (1) and (2).
+P = Aa + Bb + Cc … (1) 
+a + b + c + …= 1.00 (2)
+ About 1200g of this batched aggregate was heated to 175 to 190°C. The bitumen was heated in parallel to a pouring temperature of 140°C to which measured amount of latex was added. The blend was then stirred thoroughly, poured onto the heated aggregate and evenly mixed as shown in fig. 2. The mix is placed in a preheated mould and compacted by a rammer with 75 blows on either side. The bitumen content was varied in the next trial by +0.5% and the above procedure was repeated from 5.0% to 7.0% of total mixture weight. Three specimens were prepared for each latex-bitumen content. Four levels of latex content were investigated in this study, at 0%, 2%, 4% and 6% latex by weight of bitumen respectively. The Marshall stability and flow value of the modified mixes were then studied in comparison with those made with pure bitumen using Marshall apparatus. Further density and void calculations were also conducted.
+
+![Mix design](/assets/mixdesign.png)
 
 ## RESULTS AND DISCUSSIONS
 ### GENERAL
