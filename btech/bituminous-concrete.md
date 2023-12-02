@@ -3,7 +3,6 @@ Bituminous concrete wearing course is that part of the pavement upon which traff
 
 ## Publication
 - [Experimental Evaluation on Latex DRC60 Modified Bituminous Concrete Wearing Course](/assets/46_PROCEEDINGS.pdf)
-- [Certificate of publication](/assets/46_CERTIFICATE.pdf)
 
 ## Keywords
 *bituminous concrete, latex DRC60, Marshall stability, Marshall flow value, density and void analysis*
