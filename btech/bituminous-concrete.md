@@ -178,15 +178,16 @@ Table 4.11 Test results of ductility test on bitumen
 ![table 4.11](/assets/table4.11.png)
 
 ## CONCLUSIONS
-On conclusion of the preliminary tests on aggregate and bitumen, the following conclusions are made.
--	The aggregate crushing strength as well as impact value was found to be less than 30% making it suitable for the use of wearing course.
--	The flakiness, elongation and combined elongation and flakiness indices were found to be less than 30% which indicates better interlocking between the aggregates when used in a mix.
--	The specific gravity of both fine and coarse aggregates were obtained to be 2.625 suggesting that the aggregates are good for use in road construction.
--	An angularity number of 8 obtained in the tests indicate that aggregates are nearly angular and hence this increases the workability of the mix.
--	The gradation curve follows a S shaped graph and the aggregates are well graded. Hence there will be less void spaces between the aggregates and better interlocking properties.
--	A penetration value of 65 indicates that it belongs to 60/70 penetration grade enabling it to be used sufficiently warmer climates.
--	A higher softening point temperature and ductility value obtained suggests that the bitumen is suitable to be used at warmer climates and it will not get cracked easily under heavy traffic loads.
-Each of the preliminary tests conducted to determine the properties of aggregates and bitumen suggests their suitability to be used in the wearing course of pavement.
+In this study, the performance of latex DRC60 modified bituminous concrete wearing course was studied. The properties of base materials were first studied and then the optimum content of latex DRC60 to be added to modify the bitumen was estimated, which was found to be 8% by weight of bitumen. The bituminous concrete mix proportioning was done and the Marshall specimens were prepared with 0% and 8% latex-bitumen blends for a binder content of 5, 5.5, 6, 6.5 and 7%. On testing the specimens it was found that the addition of latex DRC60 could improve the strength of the mix as well as reduce the deformations. Each of the preliminary tests conducted to determine the properties of aggregates and bitumen suggests their suitability to be used in the wearing course of pavement. The tests conducted on bitumen modified with 0, 2, 4, 6 and 8% latex revealed that
+- The penetration of bitumen decreases, while the softening point, ductility and specific gravity increases with increase in latex content.
+- The optimum values for the tests were obtained for 8% latex in bitumen. A trial blend of 9% latex was prepared and discarded since the workability offered was poor.
+- The lower penetration value and higher ductility and softening point suggested that the blend could be used in warmer regions.
+
+With this 8% latex modified bitumen, mix proportioning was done which satisfied the MORTH specifications. The samples with pure bitumen and modified bitumen were prepared, tested and compared for Marshall stability and flow value as well as for density and void analysis which showed that
+- The peak of Marshall stability and bulk specific gravity and the valley of Marshall flow value were obtained at lower binder contents for samples of modified bitumen compared to samples of pure bitumen.
+- The optimum binder content for modified bituminous mix was thus found to be 5.55% while it was 6.14% for pure bituminous mix.
+- This suggested that the desired strength and durability is obtained with modified bituminous mix and that it can reduce about 16% of bitumen in the mix compared to pure bituminous mix.
+- Trial mix specimens prepared for 7% latex in bitumen was discarded as it obtained poor results. Thus, a bituminous mix with 8% latex by weight of bitumen at 5.55% binder content was fixed to be the optimum mix.
 
 ## REFERENCES
 1.	H.Siswanto, (2016), “Improving the physical properties of asphalt concrete bearing course using latex DRC60”, Journal of  American Institute of Physics, Vol.1778, pp.126-132.
