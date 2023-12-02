@@ -14,20 +14,22 @@ Pavement, in civil engineering is a durable surfacing of a road, airstrip, or si
 One of the major disadvantage of flexible pavement over rigid pavement is early deterioration of surface which can be overcome by improving the physical properties of wearing course. Several ways to improve the physical properties of pavement includes use of additives such as nano materials, latex, marble dust, styrene-butadiene-styrene polymers etc. Conventional bituminous concrete formula using the Marshall method has been shown to fail very rapidly due to heavy traffic and environmental effects. To minimize this deterioration, it is necessary to pay extra attention to material selection and one solution is to formulate an bituminous mix that has a high physical properties and one way to do this is to use latex as an additive. 
 
 ### OBJECTIVE
-Bituminous Wearing course can be prepared using bituminous mix design. One of the predominant bituminous mix design is Marshall method of mix design. Wearing course is subjected to deterioration due to high surface temperature, heavy rainfall, moisture ingress, poor subgrade, poor construction quality and heavy traffic. Addition of latex into the mix is expected to increase the physical properties of the bituminous mix so that the paved surface will be capable of resisting the deteriorations. The main objectives of the study includes:
+The objectives of this study include:
 - Finding the optimum latex content and binder content in the mix
 - Evaluating the changes in unit weight and voids
-- Determination of  Marshall stability,
-- Marshall flow value,
-- Skid resistance and 
-- Fatigue resistance
+- Determination of Marshall stability
+- Determination of Marshall flow value
 
 ### SCOPE
 Bituminous pavements are subjected to faster deterioration which will result in higher maintenance and operation cost. 
 - Improving the physical properties of wearing course can increase the strength of the pavement and resistance to deformations, rutting, fatigue as well as skid. On the whole this can improve the overall durability of the pavement. 
 - Improvement in pavement characteristics like friction and skid resistance can reduce the vehicle operation cost.
 - The bitumen used is of VG 30 and latex used of DRC60 so the test results are only comprising to this bitumen grade and latex grade
-- If addition of latex can improve these properties it will be a great boon. The increased demand for latex in the bituminous mix design can encourage farmers in the field of rubber plantations. Evaluation of performance of mix will be conducted for various percentages of latex from 0 to 7% and the optimum mix will be selected. 
+- If addition of latex can improve these properties it will be a great boon. The increased demand for latex in the bituminous mix design can encourage farmers in the field of rubber plantations. Evaluation of performance of mix will be conducted for various percentages of latex from 0 to 7% and the optimum mix will be selected.
+
+## LITERATURE REVIEW 
+Conventional bitumen has been modified using addition of various additives since years. Among these studies, theone with the addition of crumb rubber was the earliest. Discarded tyres from vehicles were used to modify the bituminous mixes. They were ground to different sizes and graded like aggregates. For a well graded mix, about 10% crumb rubber in bitumen was found to improve the rutting resistance and while gap graded mixes had longer fatigue life but poor rutting resistance (Palit et al. 2004)[9]. Addition of crumb rubber into bitumen was found to be one way of reducing the quantity of waste generated but even then it was uneconomical considering the costs incurred in grinding and grading of the waste tyres. Thus other additives like latex, nanomaterials etc. came into effect and the studies became prominent. Bitumen with 7% latex by weight of bitumen exhibited least temperature sensitivity, enhanced fatigue and rutting resistance (Wen et al. 2015)[5]. On the other hand, 4% latex by weight of bitumen was found to be the optimum content by varying the concentration of latex from 0 to 6% (Siswanto 2016)[1]. The rate of deterioration in the modified mixes were decreased since the addition of latex improved the dynamic stability. Moreover the shelf life of the modified mix was improved due to better dispersion of natural rubber latex in bitumen owing to its small particle size (Siswanto 2017)[3]. About 15% natural rubber latex in bitumen obtained lower penetration value as well as reduced penetration index, increased softening point and highest rutting resistance (Bakar et al. 2018)[6]. The mixing variables like mixing time, mixing temperature and mixing speed had influence on the properties of the modified blends so obtained. These variables affect the dispersion of modifiers in bitumen and thus the strength of the mix thus prepared. A mixing time of 60 minutes, mixing temperature of 160°C and a mixing speed of 1270 rpm was found to be the optimum values of mixing variables (Shaffie et al. 2018)[8]. Later studies were conducted with a combination of additives in bitumen. The optimum content of crumb rubber-HDPE mixture in bitumen was 8% while it was 6% for crumb rubber-LDPE mixture (Ghorpade and Desai 2018)[7].
+
 
 ## METHODOLOGY
 ### MATERIALS
@@ -106,6 +108,12 @@ Plot the following graphs:
 Determine the bitumen binder content that corresponds to the specifications median air void content (typically this is 3-5 percent).  This is the optimum bitumen binder content.
 
 Determine properties at this optimum bitumen binder content by referring to the plots.  Compare each of these values against specification values and if all are within specification, then the preceding optimum bitumen binder content is satisfactory.
+
+#### Latex-Bitumen Blend Preparation
+ The latex-bitumen blends were prepared by heating the bitumen to a pouring consistency in a pan at 135 to 140°C. Later, accurately measured quantity of DRC-60 latex was added at different percentages; 0%, 2%, 4%, 6%, 8% and 9%. The blends were then tested for penetration, softening point, specific gravity and ductility. The percentage of latex by weight of bitumen in the latex-bitumen blend which yield better results in these tests were fixed to be the optimum value. Further the results obtained were compared to the test results for pure bitumen.
+ 
+#### Marshall Mix Proportioning and Design
+ Three categories of aggregate samples A, B and C were proportioned to prepare Marshall specimens. These samples were sieved and batched as per MORTH specification for BC grading II shown in TABLE I using trial and error method
 
 ## RESULTS AND DISCUSSIONS
 ### GENERAL
