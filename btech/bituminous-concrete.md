@@ -199,8 +199,8 @@ Each of the preliminary tests conducted to determine the properties of aggregate
 12.	[https://nptel.ac.in/courses/105101087/downloads/Lec-26.pdf](https://nptel.ac.in/courses/105101087/downloads/Lec-26.pdf)
 
 ## PUBLICATION
-[Experimental Evaluation on Latex DRC60 Modified Bituminous Concrete Wearing Course](/assets/46_PROCEEDINGS.pdf)
-[Certificate](/assets/46_CERTIFICATE.pdf)
+- [Experimental Evaluation on Latex DRC60 Modified Bituminous Concrete Wearing Course](/assets/46_PROCEEDINGS.pdf)
+- [Certificate](/assets/46_CERTIFICATE.pdf)
 
 
 
