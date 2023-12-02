@@ -115,7 +115,7 @@ Determine properties at this optimum bitumen binder content by referring to the 
 #### Marshall Mix Proportioning and Design
  Three categories of aggregate samples A, B and C were proportioned to prepare Marshall specimens. These samples were sieved and batched as per MORTH specification for BC grading II shown in TABLE using trial and error method
 
- ![Marshall mix](/assets/latexbitumen.png)
+ ![Marshall mix](/assets/bcgrading.png)
 
  The proportion of aggregates were fixed using the following equations (1) and (2).
 P = Aa + Bb + Cc … (1) 
