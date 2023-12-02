@@ -70,7 +70,9 @@ The softening point of bitumen was determined by the Ring and Ball test. A brass
 The specific gravity of bitumen was determined using a pycnometer. The specific gravity was obtained by dividing the weight of bitumen by weight of equal volume of water.
 ##### Ductility test
 The ductility value is expressed as the distance in centimetre to which the bitumen specimen of standard size can be stretched before the thread breaks. The standard briquette specimen of cross section 10 mm × 10 mm was tested at 27°C with a rate of pull of 50 mm per minute. The distance upto the point of breaking of thread was reported as the ductility of bitumen.
+
 ![Bitumen test](/assets/bitumentest.png)
+
 #### Specimen preparation
 Approximately 1200gm of aggregates and filler is heated to a temperature of 175-190ºC. Binder is heated to a temperature of 121-125ºC with the first trial percentage of binder as 5% by weight of the mineral aggregates. The heated aggregates and bitumen are thoroughly mixed at a temperature of 154-160ºC. The mix is placed in a preheated mould and compacted by a rammer with 50 blows on either side at temperature of 138ºC to 149ºC. The weight of mixed aggregates taken for the preparation of the specimen may be suitably altered to obtain a compacted thickness of 63.5±3 mm. Vary the bitumen content in the next trial by +0:5% and repeat the above procedure. The latex-bitumen contents investigated varied from 5.0% to 7.0% of total mixture weight. Three specimens were prepared for each latex-bitumen content. Four levels of latex content were investigated in this study, at 0%, 2%, 4% and 6% latex by weight of bitumen respectively.
 #### Density and Voids Analysis
