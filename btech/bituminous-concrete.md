@@ -5,9 +5,8 @@ Bituminous concrete wearing course is that part of the pavement upon which traff
 - [Experimental Evaluation on Latex DRC60 Modified Bituminous Concrete Wearing Course](/assets/46_PROCEEDINGS.pdf)
 - [Certificate](/assets/46_CERTIFICATE.pdf)
 
-## Abstract
-Pavement is a durable surfacing of a road whose primary function is to transmit loads to the sub-base and underlying soil. Pavements are of two types: flexible and rigid. Flexible pavements consists of a mixture of bituminous material and aggregates placed on a bed of compacted granular material of appropriate quality in layers over the subgrade. Bituminous concrete wearing course is that part of the pavement upon which the traffic travels. One of the major disadvantage of flexible pavement over rigid pavement is early deterioration of surface. The pavement deterioration occurs due to high surface temperature, heavy rainfall, moisture ingress, poor subgrade, poor construction quality and heavy traffic. To improve the physical properties of bituminous concrete wearing course the materials used for the construction should be properly selected. Several ways to improve the physical properties of pavement includes use of additives such as nano materials, latex, marble dust, styrene-butadiene-styrene polymers etc.
-Natural rubber (NR) latex is a cheaper and more accessible natural polymer which can improve the physical properties especially the rheological properties of bitumen. Conventional bitumen PEN 60/70 can be modified with different content of NR latex at temperature of 150°C. The NR latex addition is expected to reduce the temperature sensitivity of the modified binder. Also, the optimum NR latex content that can be added of the total mass of the modified binder is to be found out. Hence, as a renewable and sustainable material, natural rubber (NR) latex has the potential to be used as an effective bitumen modifier.
+## Keywords
+*bituminous concrete, latex DRC60, Marshall stability, Marshall flow value, density and void analysis*
 
 ## INTRODUCTION
 ### GENERAL BACKGROUND
